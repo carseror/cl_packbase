@@ -1,6 +1,11 @@
 fx_version 'adamant'
-author 'carseror'
-description 'Script ensencial multifuncional'
+
+name "cl_packbase"
+description "Scrit standalone multifuncional"
+author "carseror"
+version "1.0.0"
+
+lua54 'yes'
 
 game 'gta5'
 
